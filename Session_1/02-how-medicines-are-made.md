@@ -1,7 +1,5 @@
 # How Medicines Are Made
 
-**PharmaNext AI · Session 1 Notes**
-
 Every medicine on a pharmacy shelf went through the same nine stages, and took between ten and fifteen years to do it.
 
 ![The nine stages of drug development, from target identification to post-market monitoring](images/10-pipeline.png)
