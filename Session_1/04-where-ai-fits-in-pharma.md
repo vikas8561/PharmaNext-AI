@@ -1,9 +1,5 @@
 # Where AI Fits in Pharmaceutical Work
 
-**PharmaNext AI · Session 1 Notes**
-
-The nine stages from the earlier notes are still the same nine stages. Nothing about how a medicine gets made has changed. What has changed is who does certain parts of the work.
-
 ---
 
 ## 1. Choosing Which Molecules to Test
@@ -189,5 +185,3 @@ Almost always at step 1 or step 6.
 **Step 1** fails when the question is vague, or when the data needed to answer it does not exist. "Can we use AI to improve formulation" is not a question. "Can we predict tablet hardness from these seven process parameters, using the 400 batches we already have records for" is.
 
 **Step 6** fails when nobody checks. A model trained on data from 2020 quietly stops being right, and because it still returns confident answers, nobody notices.
-
-You will choose your own project in Session 20. It will have all six steps, and step 1 is the one to spend time on.
