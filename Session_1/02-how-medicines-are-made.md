@@ -1,7 +1,5 @@
 # How Medicines Are Made
 
-**PharmaNext AI · Session 1 Notes**
-
 A medicine reaches a pharmacy shelf by one of two routes: the one that invents it, which takes ten to fifteen years, or the one that copies it after the patent expires, which is where most of the Indian pharmaceutical industry works.
 
 ![The nine stages of drug development, from target identification to post-market monitoring](images/10-pipeline.png)
